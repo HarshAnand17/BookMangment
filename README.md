@@ -26,8 +26,8 @@ The application allows users to add, view, update, and delete books.
 
 ## setup
 # Clone the repository
-git clone https://github.com/HarshAnand17/FindMyHome-ASD                        cd findmyhome
+git clone https://github.com/HarshAnand17/BookMangment
 
 # Setup backend
-npm install
-npm run dev
+-npm install
+-npm run dev
