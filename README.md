@@ -25,9 +25,7 @@ The application allows users to add, view, update, and delete books.
 - MockAPI / Node.js / Express (whichever you used)
 
 ## setup
-# Clone the repository
-git clone https://github.com/HarshAnand17/BookMangment
-
-# Setup backend
--npm install
--npm run dev
+- Clone the repository
+- git clone https://github.com/HarshAnand17/BookMangment
+- npm install
+- npm run dev
